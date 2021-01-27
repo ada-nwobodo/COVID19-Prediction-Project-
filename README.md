@@ -39,18 +39,18 @@ Before building my predictive models, i undertook exploratory data analysis to a
 
 - Of the 10 countries with the highest number of total deaths, there were 4 European countries (France, Italy, Spain and the United Kingdom) and 4 European countries in the top 10 group of highest cases (France, Spain)
 
-| Country |   total_cases |
----|      | 
-|Argentina |   1166924 |     
-|Brazil  |    5535605  |     
-|Colombia |  1074184   |
-|France |     1381098
-India       8229313
-Mexico      924962
-Russia      1655034
-Spain       1185678
-U.K.        1034918
-U.S.A       9032465
+| Country  |   total_cases |
+| -------  | ------------  |
+|Argentina |   1166924     |     
+|Brazil    |   5535605     |     
+|Colombia  |   1074184     |
+|France    |   1381098     |
+|India     |   8229313     |
+|Mexico    |    924962   |
+|Russia  |    1655034  |
+|Spain   |    1185678  |
+|U.K.  |      1034918  |
+|U.S.A   |    9032465  |
 
 - Visualised COVID-19 caseload and mortality rate in 3 European countries  chosen specifically for the differences in their policy approach to management of the pandemic (Germany, Sweden and the UK).
 
