@@ -46,11 +46,11 @@ Before building my predictive models, i undertook exploratory data analysis to a
 |Colombia  |   1074184     |
 |France    |   1381098     |
 |India     |   8229313     |
-|Mexico    |    924962   |
-|Russia  |    1655034  |
-|Spain   |    1185678  |
-|U.K.  |      1034918  |
-|U.S.A   |    9032465  |
+|Mexico    |    924962     |
+|Russia    |   1655034     |
+|Spain     |   1185678     |
+|U.K.      |   1034918     |
+|U.S.A     |   9032465     |
 
 - Visualised COVID-19 caseload and mortality rate in 3 European countries  chosen specifically for the differences in their policy approach to management of the pandemic (Germany, Sweden and the UK).
 
